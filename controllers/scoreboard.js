@@ -20,7 +20,6 @@ router.post('/setScore', auth, (req, res) => {
 
 
 router.get('/getScores', auth, (req, res) => {
-    console.log("hola: "+ req.user.users_email)
     Scoreboard.getScoreboards(req.query.gametype)
         .then((data) => {
             res.send(data);
