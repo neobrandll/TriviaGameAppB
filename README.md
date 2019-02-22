@@ -2,14 +2,15 @@
 
 Server for Trivia Project on Mobile Device Development subject.
 
+# DataBase
+
+Data base made in PostgreSQL, in the folder bd you can find a backup, you only need to modify the properties in the config.js file.
+
 # Installing
 
-use "npm install" command.
+use "yarn install" command.
 
 # Initializing
 
-npm start
+"use yarn run nodemon" command.
 
-# Request Collection
-
-https://www.getpostman.com/collections/ceb7afe6749751c147cd
