@@ -1,4 +1,4 @@
-# trivia-server
+# Trivia-server
 
 Server for Trivia Project on Mobile Device Development subject.
 
