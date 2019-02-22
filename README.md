@@ -14,3 +14,11 @@ use "yarn install" command.
 
 "use yarn run nodemon" command.
 
+# Authors
+
+<ul>
+<li><strong>Luis Acurero</strong> - <a href="https://github.com/13luismb">GitHub</a></li>
+<li><strong>Brandon Lugo</strong> - <a href="https://github.com/neobrandll">GitHub</a></li>
+ 
+</ul>
+
